@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="44" viewBox="0 0 980 44" role="img" aria-label="Topbar Monitor in the macOS menu bar">
+<rect width="980" height="44" rx="10" fill="#1c1c1e"/>
+<rect x="0" y="10" width="980" height="24" fill="#2b2b2e"/>
+<g font-family="-apple-system, 'SF Pro Text', Helvetica, Arial, sans-serif" font-size="13" fill="#e8e8ea">
+<text x="18" y="27" font-weight="600">Finder</text><text x="78" y="27">File</text><text x="114" y="27">Edit</text><text x="152" y="27">View</text>
+<text x="962" y="27" text-anchor="end">Thu 29 Oct  14:32</text></g>
+<rect x="212" y="12" width="576" height="20" rx="5" fill="#3a3a3e"/>
+<text x="220" y="26" textLength="560" lengthAdjust="spacing" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11"><tspan fill="#9a9aa0" font-weight="500">CLD S </tspan><tspan fill="#e8e8ea" font-weight="500">7%</tspan><tspan fill="#9a9aa0" font-weight="500"> W </tspan><tspan fill="#ff9f0a" font-weight="500">84%</tspan><tspan fill="#5e5e64" font-weight="normal">  |  </tspan><tspan fill="#9a9aa0" font-weight="500">GPT S </tspan><tspan fill="#e8e8ea" font-weight="500">12%</tspan><tspan fill="#9a9aa0" font-weight="500"> W </tspan><tspan fill="#e8e8ea" font-weight="500">30%</tspan><tspan fill="#5e5e64" font-weight="normal">  |  </tspan><tspan fill="#9a9aa0" font-weight="500">DN </tspan><tspan fill="#e8e8ea" font-weight="500"> 1.2 MB/s</tspan><tspan fill="#9a9aa0" font-weight="500"> UP </tspan><tspan fill="#e8e8ea" font-weight="500">  84 KB/s</tspan><tspan fill="#5e5e64" font-weight="normal">  |  </tspan><tspan fill="#9a9aa0" font-weight="500">DATA </tspan><tspan fill="#e8e8ea" font-weight="500">3.4 GB</tspan></text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="447" height="609" viewBox="0 0 447 609" role="img" aria-label="Topbar Monitor dropdown menu">
+<rect x="0" y="0" width="447" height="609" rx="12" fill="#1c1c1e"/>
+<rect x="6" y="6" width="435" height="597" rx="9" fill="#2b2b2e" stroke="#3d3d42"/>
+<g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11">
+<text x="18" y="37"><tspan fill="#e8e8ea" font-weight="bold"> _____ ___  ___ ___   _   ___ </tspan></text>
+<text x="18" y="54"><tspan fill="#e8e8ea" font-weight="bold">|_   _/ _ \| _ \ _ ) /_\ | _ \ </tspan></text>
+<text x="18" y="71"><tspan fill="#e8e8ea" font-weight="bold">  | || (_) |  _/ _ \/ _ \|   /</tspan></text>
+<text x="18" y="88"><tspan fill="#e8e8ea" font-weight="bold">  |_| \___/|_| |___/_/ \_\_|_\ </tspan></text>
+<text x="18" y="105"><tspan fill="#9a9aa0" font-weight="normal">:: MONITOR ::                                   14:32:07</tspan></text>
+<text x="18" y="122"><tspan fill="#e8e8ea" font-weight="normal"></tspan></text>
+<text x="18" y="139"><tspan fill="#e8e8ea" font-weight="bold">+-[ 01 CLAUDE ]---------------------------------[ OK ]-+</tspan></text>
+<text x="18" y="156"><tspan fill="#e8e8ea" font-weight="normal">|  SESSION  [#...................]   7%  RST  3h12m    |</tspan></text>
+<text x="18" y="173"><tspan fill="#e8e8ea" font-weight="normal">|  WEEKLY   [#################...]  84%  RST  2d05h    |</tspan></text>
+<text x="18" y="190"><tspan fill="#9a9aa0" font-weight="normal">+------------------------------------------------------+</tspan></text>
+<text x="18" y="207"><tspan fill="#e8e8ea" font-weight="bold">+-[ 02 GPT ]------------------------------------[ OK ]-+</tspan></text>
+<text x="18" y="224"><tspan fill="#e8e8ea" font-weight="normal">|  SESSION  [##..................]  12%  RST  4h41m    |</tspan></text>
+<text x="18" y="241"><tspan fill="#e8e8ea" font-weight="normal">|  WEEKLY   [######..............]  30%  RST  5d11h    |</tspan></text>
+<text x="18" y="258"><tspan fill="#e8e8ea" font-weight="bold">|  &gt;&gt; LOG OUT OF CHATGPT                               |</tspan></text>
+<text x="18" y="275"><tspan fill="#9a9aa0" font-weight="normal">+------------------------------------------------------+</tspan></text>
+<text x="18" y="292"><tspan fill="#e8e8ea" font-weight="bold">+-[ 03 NET SPEED ]----------------------------[ LIVE ]-+</tspan></text>
+<text x="18" y="309"><tspan fill="#e8e8ea" font-weight="normal">|  DOWN       1.2 MB/s  [  .  ..:=*%+-..:=#@*-:..]     |</tspan></text>
+<text x="18" y="326"><tspan fill="#e8e8ea" font-weight="normal">|  UP          84 KB/s  [..:..-=*%+-::..:=#@*-:..]     |</tspan></text>
+<text x="18" y="343"><tspan fill="#9a9aa0" font-weight="normal">+------------------------------------------------------+</tspan></text>
+<text x="18" y="360"><tspan fill="#e8e8ea" font-weight="bold">+-[ 04 DATA USAGE ]--------------------[ SINCE 09:15 ]-+</tspan></text>
+<text x="18" y="377"><tspan fill="#e8e8ea" font-weight="normal">|  RECV         3.1 GB                                 |</tspan></text>
+<text x="18" y="394"><tspan fill="#e8e8ea" font-weight="normal">|  SENT         312 MB                                 |</tspan></text>
+<text x="18" y="411"><tspan fill="#e8e8ea" font-weight="normal">|  TOTAL        3.4 GB                                 |</tspan></text>
+<text x="18" y="428"><tspan fill="#9a9aa0" font-weight="normal">+------------------------------------------------------+</tspan></text>
+<text x="18" y="445"><tspan fill="#e8e8ea" font-weight="normal"></tspan></text>
+<text x="18" y="462"><tspan fill="#e8e8ea" font-weight="bold">DISPLAY IN BAR</tspan></text>
+<text x="18" y="479"><tspan fill="#e8e8ea" font-weight="normal">  [x] CLAUDE</tspan></text>
+<text x="18" y="496"><tspan fill="#e8e8ea" font-weight="normal">  [x] GPT</tspan></text>
+<text x="18" y="513"><tspan fill="#e8e8ea" font-weight="normal">  [x] NET SPEED</tspan></text>
+<text x="18" y="530"><tspan fill="#e8e8ea" font-weight="normal">  [x] DATA USAGE</tspan></text>
+<text x="18" y="547"><tspan fill="#e8e8ea" font-weight="normal"></tspan></text>
+<text x="18" y="564"><tspan fill="#e8e8ea" font-weight="normal">  &gt;&gt; REFRESH</tspan></text>
+<text x="423" y="564" text-anchor="end" fill="#9a9aa0">⌘R</text>
+<text x="18" y="581"><tspan fill="#e8e8ea" font-weight="normal">  &gt;&gt; QUIT</tspan></text>
+<text x="423" y="581" text-anchor="end" fill="#9a9aa0">⌘Q</text>
+</g>
+</svg>
